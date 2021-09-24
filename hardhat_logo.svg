@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg width="210" height="297" viewBox="0 0 210 297" version="1.1" id="svg5" <defs id="defs2">
-    <style id="style43">
-        .a {
-            fill: none;
-        }
+<svg width="210" height="297" viewBox="0 0 210 297" version="1.1" id="svg5"
+    inkscape:version="1.1 (c68e22c387, 2021-05-23)" sodipodi:docname="drawing.svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview id="namedview7" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0"
+        inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:document-units="mm"
+        showgrid="false" inkscape:zoom="0.74118967" inkscape:cx="216.54376" inkscape:cy="561.93443"
+        inkscape:window-width="210" inkscape:window-height="297" inkscape:window-x="3832" inkscape:window-y="-8"
+        inkscape:window-maximized="1" inkscape:current-layer="layer1" />
+    <defs id="defs2">
+        <style id="style43">
+            .a {
+                fill: none;
+            }
 
-        .b {
-            fill: #15191f;
-        }
+            .b {
+                fill: #15191f;
+            }
 
-        .c {
-            fill: #f0d50c;
-        }
+            .c {
+                fill: #f0d50c;
+            }
 
-        .d {
-            fill: #fff04d;
-        }
+            .d {
+                fill: #fff04d;
+            }
 
-        .e {
-            fill: #ffea00;
-        }
+            .e {
+                fill: #ffea00;
+            }
 
-        .f {
-            fill: #6e6f70;
-        }
+            .f {
+                fill: #6e6f70;
+            }
 
-        .g {
-            fill: #0a0a0a;
-        }
-    </style>
+            .g {
+                fill: #0a0a0a;
+            }
+        </style>
     </defs>
     <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
         <path class="c"

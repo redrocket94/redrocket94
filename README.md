@@ -22,19 +22,25 @@ I am a firm believer in Polkadot & Kusama and their respective parachains, mostl
 </br>
 </br>
 
-### 🔨Languages, Tools & Tech 👷
+## 🔨Languages, Tools & Tech 👷
 Languages, tools and technologies I either use at work or enjoy using on my own time.
 <table>
   <tbody>
     <tr>
       <td align="center" width="96">
+        <img src="https://img.icons8.com/color/96/000000/ethereum.png" width="48" height="48" alt="C#" style="max-width: 100%;">
+      <br>Ethereum
+      </td>
+      <td align="center" width="96">
         <img src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" width="48" height="48" alt="C#" style="max-width: 100%;">
       <br>Solidity
       </td>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/color/96/000000/ethereum.png" width="48" height="48" alt="C#" style="max-width: 100%;">
-      <br>Ethereum
+        <img src="./hardhat_logo.svg" width="48" height="48" alt="C#" style="max-width: 100%;">
+      <br>Hardhat
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://img.icons8.com/color/96/000000/flutter.png" width="48" height="48" alt="C#" style="max-width: 100%;">
       <br>Flutter
@@ -45,12 +51,26 @@ Languages, tools and technologies I either use at work or enjoy using on my own 
       <br>Dart
       </td>
       <td align="center" width="96">
-        <img src="./hardhat_logo.svg" width="48" height="48" alt="C#" style="max-width: 100%;">
-      <br>Hardhat
+        <img src="https://img.icons8.com/fluency/96/000000/python.png" width="48" height="48" alt="C#" style="max-width: 100%;">
+      <br>Python
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="48" height="48" alt="C#" style="max-width: 100%;">
+      <br>Javascript
+      </td>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/96/000000/react-native.png" width="48" height="48" alt="C#" style="max-width: 100%;">
+      <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/96/000000/git.png" width="48" height="48" alt="C#" style="max-width: 100%;">
+      <br>Git
       </td>
     </tr>
   </tbody>
 </table>
-
 
 <!-- [![Oliver's Github Stats](https://github-readme-stats.vercel.app/api?username=redrocket94)](https://github.com/anuraghazra/github-readme-stats) -->

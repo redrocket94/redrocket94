@@ -59,5 +59,5 @@ Languages, tools and technologies I either use at work or enjoy using on my own 
 <br>
 
 ## Statistics
-![Github Activity](https://github-readme-stats.vercel.app/api?username=redrocket94&show_icons=true&theme=cobalt)
+![Github Activity](https://github-readme-stats.vercel.app/api?username=redrocket94&show_icons=true&theme=synthwave)
 

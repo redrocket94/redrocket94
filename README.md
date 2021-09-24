@@ -39,9 +39,11 @@ Languages, tools and technologies I either use at work or enjoy using on my own 
         <img src="./hardhat_logo.svg" width="48" height="48" alt="C#" style="max-width: 100%;">
       <br>Hardhat
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
+        <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="48" height="48" alt="C#" style="max-width: 100%;">
+      <br>Javascript
+      </td>
+      <td align="center" width="96" background="none">
         <img src="https://img.icons8.com/color/96/000000/flutter.png" width="48" height="48" alt="C#" style="max-width: 100%;">
       <br>Flutter
       </td>
@@ -53,12 +55,6 @@ Languages, tools and technologies I either use at work or enjoy using on my own 
       <td align="center" width="96">
         <img src="https://img.icons8.com/fluency/96/000000/python.png" width="48" height="48" alt="C#" style="max-width: 100%;">
       <br>Python
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="48" height="48" alt="C#" style="max-width: 100%;">
-      <br>Javascript
       </td>
       </td>
       <td align="center" width="96">

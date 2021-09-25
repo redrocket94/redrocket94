@@ -4,6 +4,7 @@
     <a href="https://www.linkedin.com/in/oliver-h-duedam/" rel="nofollow"> <img align="right"
             src="./linkedin_logo.svg"
             alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
+<br>
 
 ## Welcome! 🚀
 

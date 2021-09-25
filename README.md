@@ -12,7 +12,7 @@ I'm a Flutter Developer currently employed by the international software consult
 Outside of this, I have a healthy obsession with blockchain and Solidity development, where I would consider myself on an **intermediate** level.
 I have an AP in Computer Science and a BA in Software Development from KEA (Copenhagen School of Design and Technology).
 
-Have "been in" Blockchain since 2012, when my friend mined his first bitcoins and have since then been under the blockchain spell✨
+Have been "in" Blockchain since 2012, when my friend mined his first bitcoins and have since then been under the blockchain spell✨
 
 I am a firm believer in Polkadot & Kusama and their respective parachains, mostly **Astar**/**Shiden**, **Acala**/**Karura** & **Moonbeam**.
 </br>

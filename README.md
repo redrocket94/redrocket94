@@ -1,3 +1,10 @@
+<a href="https://twitter.com/oliverhduedam" rel="nofollow"> <img align="right"
+            src="./twitter_logo.svg"
+            alt="Twitter" height="36px" style="max-width: 100%;"> </a>
+    <a href="https://www.linkedin.com/in/oliver-h-duedam/" rel="nofollow"> <img align="right"
+            src="./linkedin_logo.svg"
+            alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
+
 ## Welcome! 🚀
 
 I'm a Flutter Developer currently employed by the international software consultrancy firm MonstarLab, where I mostly develop mobile applications both Android & iOS using Flutter.

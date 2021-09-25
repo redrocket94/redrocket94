@@ -25,7 +25,7 @@ I am a firm believer in Polkadot & Kusama and their respective parachains, mostl
 - 🌱 I’m currently learning Intermediate-Advanced **Solidity**, **Web2** & **Web3**
 - 👯 I’m looking to collaborate on any **interesting** projects, ideas for any chain with **EVM compatibility**
 - 🤔 I’m looking for help with **advanced** Solidity concepts, **best practices** and general **architecture**
-- 💬 Ask me about **Flutter**, **Ethereum**, **Polkadot**, **TradFi** & **DeFi**
+- 💬 Ask me about **Flutter**, **Ethereum**, **Polkadot**, **TradFi** vs. **DeFi**
 
 </br>
 <br>

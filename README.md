@@ -8,11 +8,11 @@
 
 # Hello! 🚀
 
-I'm a Flutter Developer currently employed by the international software consultrancy firm MonstarLab, where I mostly develop mobile applications both Android & iOS using Flutter.
+I'm a Flutter Developer currently employed by the international software consultancy firm MonstarLab, where I develop mobile applications for both Android & iOS using Flutter.
 Outside of this, I have a healthy obsession with blockchain and Solidity development, where I would consider myself on an **intermediate** level.
 I have an AP in Computer Science and a BA in Software Development from KEA (Copenhagen School of Design and Technology).
 
-Have been "in" Blockchain since 2012, when my friend mined his first bitcoins and have since then been under the blockchain spell✨
+Blockchain has been a part of my life since 2012 when my friend mined his first bitcoins and have since then been under the blockchain spell✨
 
 I am a firm believer in Polkadot & Kusama and their respective parachains, mostly **Astar**/**Shiden**, **Acala**/**Karura** & **Moonbeam**.
 </br>

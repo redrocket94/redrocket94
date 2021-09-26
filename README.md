@@ -8,8 +8,8 @@
 
 # Hello! 🚀
 
-I'm a Flutter Developer currently employed by the international software consultancy firm MonstarLab, where I develop mobile applications for both Android & iOS using Flutter.
-Outside of this, I have a healthy obsession with blockchain and Solidity development, where I would consider myself on an **intermediate** level.
+I'm a Flutter Developer currently employed by the international software consultancy firm MonstarLab, where I develop mobile applications for both Android & iOS using Flutter.\
+Outside of this, I have a healthy obsession with blockchain and Solidity development, where I would consider myself on an **intermediate** level.\
 I have an AP in Computer Science and a BA in Software Development from KEA (Copenhagen School of Design and Technology).
 
 Blockchain has been a part of my life since 2012 when my friend mined his first bitcoins and have since then been under the blockchain spell✨

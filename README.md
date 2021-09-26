@@ -6,7 +6,7 @@
             alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
 <br>
 
-## Welcome! 🚀
+# Welcome! 🚀
 
 I'm a Flutter Developer currently employed by the international software consultrancy firm MonstarLab, where I mostly develop mobile applications both Android & iOS using Flutter.
 Outside of this, I have a healthy obsession with blockchain and Solidity development, where I would consider myself on an **intermediate** level.

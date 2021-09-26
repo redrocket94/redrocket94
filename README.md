@@ -21,7 +21,7 @@ I am a firm believer in Polkadot & Kusama and their respective parachains, mostl
 <img align="right" src="https://thumbs.gfycat.com/EqualPowerfulKoodoo-size_restricted.gif" alt="drawing" width="300"/>
 
 ## About me
-- 🔭 I’m currently attending Encode Academy, run by [Encode Club](https://www.encode.club/) in collaboration with [Extropy](https://extropy.io/) (check them out, they do some really cool stuff!)
+- 🔭 I’m currently attending Encode Academy, run by [Encode Club](https://www.encode.club/) in collaboration with [Extropy](https://extropy.io/) (check them out, they do some  cool stuff!)
 - 🌱 I’m currently learning Intermediate-Advanced **Solidity**, **Web2** & **Web3**
 - 👯 I’m looking to collaborate on any **interesting** projects, ideas for any chain with **EVM compatibility**
 - 🤔 I’m looking for help with **advanced** Solidity concepts, **best practices** and general **architecture**
@@ -31,7 +31,7 @@ I am a firm believer in Polkadot & Kusama and their respective parachains, mostl
 <br>
 
 ## 🔨Languages, Tools & Tech 👷
-Languages, tools and technologies I either use at work or enjoy using on my own time.
+These are languages, tools, and technologies I either use at work or enjoy using on my own time.
 <p>
     <a href="https://ethereum.org" rel="nofollow"> <img align="left"
             src="./ethereum_logo.png"

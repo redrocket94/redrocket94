@@ -8,20 +8,21 @@
 
 # Hello! 🚀
 
-I'm a Flutter Developer currently employed by the international software consultancy firm MonstarLab, where I develop mobile applications for both Android & iOS using Flutter.\
+I'm a Web3 Developer, currently running a Web3 company from my adopted home, Portugal.
+In a past life I was an Android & Flutter Developer and have been employed by local as well as international software consultancy firms, where I developed mobile applications using Flutter as well as the native Android SDK.\
 Outside of this, I have a healthy obsession with blockchain and Solidity development, where I would consider myself on an **intermediate** level.\
 I have an AP in Computer Science and a BA in Software Development from KEA (Copenhagen School of Design and Technology).
 
-Blockchain has been a part of my life since 2012 when my friend mined his first bitcoins and have since then been under the blockchain spell✨
+Blockchain has been a part of my life since 2012 when a friend and I mined our first bitcoins and promptly ✨threw the keys away the next week✨
 
-I am a firm believer in Polkadot & Kusama and their respective parachains, mostly **Astar**/**Shiden**, **Acala**/**Karura** & **Moonbeam**.
+I am a firm believer in Polkadot & Kusama and their respective parachains, mostly **Moonbeam**/**Moonriver**, **Acala**/**Karura** & RMRK.
 </br>
 </br>
 
 <img align="right" src="https://thumbs.gfycat.com/EqualPowerfulKoodoo-size_restricted.gif" alt="drawing" width="300"/>
 
 ## About me
-- 🔭 I’m currently attending Encode Academy, run by [Encode Club](https://www.encode.club/) in collaboration with [Extropy](https://extropy.io/) (check them out, they do some  cool stuff!)
+- 🔭 I was enrolled in the first Encode Academy, run by [Encode Club](https://www.encode.club/) in collaboration with [Extropy](https://extropy.io/) (check them out, they do some  cool stuff!)
 - 🌱 I’m currently learning Intermediate-Advanced **Solidity**, **Web2** & **Web3**
 - 👯 I’m looking to collaborate on any **interesting** projects, ideas for any chain with **EVM compatibility**
 - 🤔 I’m looking for help with **advanced** Solidity concepts, **best practices** and general **architecture**
